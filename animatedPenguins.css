@@ -1,1 +1,12 @@
+body {
+    background-color: beige;
+}
 
+img {
+    height: 100px;
+    width: 75px;
+}
+
+circle {
+    color: red;
+}
